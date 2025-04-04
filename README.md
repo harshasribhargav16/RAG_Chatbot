@@ -1,4 +1,4 @@
-# Wikipedia RAG Chatbot
+# RAG Chatbot
 
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines web scraping, intelligent indexing, and natural language processing to provide accurate, context-aware responses from Wikipedia articles.
 
